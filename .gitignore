@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# Sub-projects
+/tp1_flutter/
+/tp2_flutter/
+/waiting_room_app/
+/tp5_flutter/
+/gestion_absences_app/
+/screan_cutter/
+/record/
+/tp1 redou withe recorde/
